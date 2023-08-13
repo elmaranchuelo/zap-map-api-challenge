@@ -1,18 +1,18 @@
-### Zap-Map API challenge
+# Zap-Map API challenge
 this app is for development purposes only
 
 ## Installation
 
-# Run to create database
+### Run to create database
 php artisan create:database
 
-# Run to migrate database
+### Run to migrate database
 php artisan migrate
 
-# Run to import csv file on database location table
+### Run to import csv file on database location table
 php artisan db:seed
 
-# Run to do feature and unit testing
+### Run to do feature and unit testing
 php artisan test
 
 ## USAGE
